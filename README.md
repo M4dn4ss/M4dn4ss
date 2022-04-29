@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samed
-- 👀 I’m interested in C# and Python.
+- 👀 I’m interested in C#,Python,Javascript,React,NodeJS.
 - 📫 How to reach me: SamedOnderKocak@hotmail.com
 
 <!---
